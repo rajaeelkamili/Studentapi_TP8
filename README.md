@@ -132,9 +132,7 @@ http://localhost:8080/swagger-ui/index.html
 ```
 src/main/java/ma/fst/studentapi/
 │
-├── StudentApiApplication.java   ← Point d'entrée (@SpringBootApplication)
-├── OpenApiConfig.java           ← Configuration Swagger
-│
+├── StudentApiApplication.java   ← Point d'entrée (@SpringBootApplication)│
 ├── controller/
 │   └── StudentController.java   ← Endpoints REST
 │
